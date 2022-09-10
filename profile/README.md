@@ -14,6 +14,6 @@ Tegro
 
 ## Follow Us
 - [Twitter Team](https://twitter.com/TGRtoken)
-- [Twitter Explorer]https://twitter.com/TonExplorers)
+- [Twitter Explorer](https://twitter.com/TonExplorers)
 - [Telegram Token](https://t.me/TgrTON)
 - [Telegram DEX](https://t.me/TegroFinance)
