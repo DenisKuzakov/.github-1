@@ -12,6 +12,10 @@ Tegro
 - [🧨 TegroTON/repositories](https://github.com/orgs/TegroTON/repositories) - TON code
 - [🧨 TGRTON/repositories](https://github.com/orgs/TGRTON/repositories) - Web3 dev
 
+## API and Documentation:
+- [🛠 API payment system](https://tegro.money/docs/en/) - Tegro.Money [Payment gateway]
+- [🛠 API DEX on TON](https://api.tegro.finance/) - Tegro.Finance [Decentralized exchange]
+
 ## Follow Us
 - [Twitter Team](https://twitter.com/TGRtoken)
 - [Twitter Explorer](https://twitter.com/TonExplorers)
